@@ -1,0 +1,6 @@
+c:\users\hris\documents\visual studio 2015\Projects\GeometricFigures\GeometricFigures\bin\Debug\GeometricFigures.exe.config
+c:\users\hris\documents\visual studio 2015\Projects\GeometricFigures\GeometricFigures\bin\Debug\GeometricFigures.exe
+c:\users\hris\documents\visual studio 2015\Projects\GeometricFigures\GeometricFigures\bin\Debug\GeometricFigures.pdb
+c:\users\hris\documents\visual studio 2015\Projects\GeometricFigures\GeometricFigures\obj\Debug\GeometricFigures.csprojResolveAssemblyReference.cache
+c:\users\hris\documents\visual studio 2015\Projects\GeometricFigures\GeometricFigures\obj\Debug\GeometricFigures.exe
+c:\users\hris\documents\visual studio 2015\Projects\GeometricFigures\GeometricFigures\obj\Debug\GeometricFigures.pdb
